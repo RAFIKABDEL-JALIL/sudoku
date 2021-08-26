@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(1, 1, 23);
+    padding: 20vh;
+}
+ul {
+    list-style-type: none;
+    align-items: center;
+    text-align: center;
+}
+li {
+    padding: 30px;
+    border-bottom: 2px solid rgb(1, 1, 254);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}

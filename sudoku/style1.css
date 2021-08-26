@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(1, 1, 23);
+    padding: 50vh;
+    text-align: center;
+    align-items: center;
+}
+#bouton{
+    display: block;
+    padding: 30px 300px;
+    background-color: rgb(1, 1, 254);
+    text-align: center;
+    align-items: center;
+}
+
+    a{ 
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
